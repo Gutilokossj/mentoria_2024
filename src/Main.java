@@ -3,11 +3,7 @@ public class Main {
 
         System.out.println("Primeiro código de teste");
         System.out .println("ATUALIZAÇÃO COMMIT TESTE");
-        System.out.println("TEste commit novamente");
-
-
-        System.out.println("Teste 2, para o pull");
-
+        System.out.println("Teste commit novamente");
 
     }
 }
